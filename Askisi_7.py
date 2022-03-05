@@ -55,15 +55,10 @@ while True:
         print(max)
         print(min)
     
-    elif kleidi=="1":
+    elif kleidi=="exit":
         break
 
 
 
 
-# with open("sample.txt", "r") as f:
 
-#     cont = f.readlines()
-#     for i in cont:
-#         d = loads(i) 
-#         print(d.keys(), d.values())
